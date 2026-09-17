@@ -1,0 +1,7 @@
+{
+  "name": "ROBIN JARVIS AI Command Center",
+  "description": "Futuristic Windows PC control, voice assistant, multi-agent orchestration, and system automation command center.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
